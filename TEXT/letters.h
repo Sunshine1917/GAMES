@@ -1,0 +1,57 @@
+#ifndef LETTERS_H
+#define LETTERS_H
+
+extern char letter_A[9][9];
+extern char letter_B[9][9];
+extern char letter_C[9][9];
+extern char letter_D[9][9];
+extern char letter_E[9][9];
+extern char letter_F[9][9];
+extern char letter_G[9][9];
+extern char letter_H[9][9];
+extern char letter_I[9][9];
+extern char letter_J[9][9];
+extern char letter_K[9][9];
+extern char letter_L[9][9];
+extern char letter_M[9][9];
+extern char letter_N[9][9];
+extern char letter_O[9][9];
+extern char letter_P[9][9];
+extern char letter_Q[9][9];
+extern char letter_R[9][9];
+extern char letter_S[9][9];
+extern char letter_T[9][9];
+extern char letter_U[9][9];
+extern char letter_V[9][9];
+extern char letter_W[9][9];
+extern char letter_X[9][9];
+extern char letter_Y[9][9];
+extern char letter_Z[9][9];
+extern char letter_a[9][7];
+extern char letter_b[9][7];
+extern char letter_c[9][7];
+extern char letter_d[9][7];
+extern char letter_e[9][7];
+extern char letter_f[9][7];
+extern char letter_g[9][7];
+extern char letter_h[9][7];
+extern char letter_i[9][7];
+extern char letter_j[9][7];
+extern char letter_k[9][7];
+extern char letter_l[9][7];
+extern char letter_m[9][7];
+extern char letter_n[9][7];
+extern char letter_o[9][7];
+extern char letter_p[9][7];
+extern char letter_q[9][7];
+extern char letter_r[9][7];
+extern char letter_s[9][7];
+extern char letter_t[9][7];
+extern char letter_u[9][7];
+extern char letter_v[9][7];
+extern char letter_w[9][7];
+extern char letter_x[9][7];
+extern char letter_y[9][7];
+extern char letter_z[9][7];
+extern char space_L[9][7];
+#endif
